@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning **Data Analytics**
+- 🌱 I'm Currently learning **Data Analytics**
 - 📊 Skilled in **SQL, Excel, Power BI, Tableau & Python**
 - 📈 Building real-world **Data Analysis Projects**
 - 💡 Interested in **Data Visualization & Insights**
