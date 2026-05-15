@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komalikapatil85-oss/komalikapatil85-oss/refs/heads/main/komalika-banner.png" width="100%" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Komalika Patil</h1>
 
 <h3 align="center">📊 Aspiring Data Analyst</h3>
