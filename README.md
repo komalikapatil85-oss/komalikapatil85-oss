@@ -78,4 +78,4 @@
 
 📊 “Data is the new oil, but insights are the real power.”
 
-⭐ Thanks for visiting my profile!profile!
+⭐ Thanks for visiting my profile!
